@@ -2,6 +2,12 @@
 Changelog for package ar_track_alvar_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fix catkin_lint
+* Bump CMake version to avoid CMP0048 warning
+* Contributors: Alexander Rössler, Felix Messmer, fmessmer
+
 0.7.1 (2017-06-14)
 ------------------
 * [maintenance] Remove unnecessary metapkg.

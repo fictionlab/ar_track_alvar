@@ -2,6 +2,29 @@
 Changelog for package ar_track_alvar
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Review Changes
+* remove deprecated cmake_policy
+* fix OpenCV error
+* Marker: copy vector on initialize
+* Camera: fix problem when findHomography returns empty matrix
+* added time stamp of image to header of array message
+* fix catkin_lint
+* disable rostests
+* fix add_dependencies
+* Bump CMake version to avoid CMP0048 warning
+* more work on CV C to C++ port
+* convert OpenCV C API to C++ API
+* reformat files
+* FindMarkerBundles: port features from FindMarkerBundlesNoKinect
+* FindMarkerBundlesNoKinect: restructure
+* FindMarkerBundles: clear errors reported by linter
+* FindMarkerBundles: clear errors reported by linter
+* publish transform in output frame
+* FindMarkerBundlesNoKinect: implement params and dynamic reconfigure
+* Contributors: Alexander Rössler, Christopher Lalau Keraly, Denis Lehmann, Felix Messmer, Patrick Musau, fmessmer
+
 0.7.1 (2017-06-14)
 ------------------
 * [maintenance] Remove unnecessary metapkg.
