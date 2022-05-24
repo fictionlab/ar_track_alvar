@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
  <name>ar_track_alvar</name>
- <version>0.7.1</version>
+ <version>0.7.2</version>
  <description>
   This package is a ROS wrapper for Alvar, an open source AR tag tracking library.
  </description>

@@ -2,8 +2,8 @@
 Changelog for package ar_track_alvar
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.7.2 (2022-05-24)
+------------------
 * Review Changes
 * remove deprecated cmake_policy
 * fix OpenCV error
